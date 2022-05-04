@@ -1,0 +1,35 @@
+h1{
+    background-color: rgba(228, 11, 11, 0.603);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2, h3{
+    background-color: rgb(30, 168, 30);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3{
+    background-color: rgba(153, 54, 8, 0.603);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+img{
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: block;
+    margin-left: 45%;
+    margin-right: auto;
+}
